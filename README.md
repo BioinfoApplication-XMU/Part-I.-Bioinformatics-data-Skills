@@ -3,8 +3,8 @@ Basic Skills (Github/markdown/Linux/R/python)
 ##Main study plans and students' practice markdowns for the Part-I.-Bioinformatics-data-Skills
 
 
-#Please read the Schedule_Part I. Bioinformatics data Skills
-#Please reference the markdown_example_for_linux_basic.md when you document your own practice
+#(1)Please read the Schedule_Part I. Bioinformatics data Skills
+#(2)Please reference the markdown_example_for_linux_basic.md when you document your own practice
 
 
 ## **Aim: these basic data skills give you freedom.**
