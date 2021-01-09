@@ -20,4 +20,5 @@ Basic Skills (Github/markdown/Linux/R/python)
 > - **Treat Data as Read-Only**
 > - **Document Everything** \(-- Too geeky?\) Just as a well-organized laboratory makes a scientist’s life easier, a well-organized and well-documented project makes a bioinformatician’s life easier.
 >
-> 《Bioinformatics Data Skills》  LuLab from Tsinghua University
+> 《Bioinformatics Data Skills》  
+   LuLab course from Tsinghua University---https://lulab2.gitbook.io/teaching/
