@@ -4,6 +4,7 @@ Basic Skills (Github/markdown/Linux/R/python)
 
 
 #Please read the Schedule_Part I. Bioinformatics data Skills
+#Please reference the markdown_example_for_linux_basic.md when you document your own practice
 
 
 ## **Aim: these basic data skills give you freedom.**
@@ -19,4 +20,4 @@ Basic Skills (Github/markdown/Linux/R/python)
 > - **Treat Data as Read-Only**
 > - **Document Everything** \(-- Too geeky?\) Just as a well-organized laboratory makes a scientist’s life easier, a well-organized and well-documented project makes a bioinformatician’s life easier.
 >
-> 《Bioinformatics Data Skills》
+> 《Bioinformatics Data Skills》  LuLab from Tsinghua University
