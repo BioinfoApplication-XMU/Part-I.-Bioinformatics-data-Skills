@@ -1,7 +1,7 @@
 # Linux
 
 Linux basic codes for practice
-(From Lulab-Tsinghua University)
+(From Lulab course-Tsinghua University https://lulab2.gitbook.io/teaching/)
 
 
 
