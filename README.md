@@ -4,6 +4,7 @@ Basic Skills (Github/markdown/Linux/R/python)
 
 
 #(1)Please read the Schedule_Part I. Bioinformatics data Skills
+
 #(2)Please reference the markdown_example_for_linux_basic.md when you document your own practice
 
 
