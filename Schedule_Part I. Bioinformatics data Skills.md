@@ -129,6 +129,8 @@
   ​                        [runoob-docker教程](https://www.runoob.com/docker/docker-tutorial.html)
 
   ​                        [视频教程:how to use docker](https://www.bilibili.com/video/BV1D5411j7Lb) 
+  
+                           实践清华鲁志老师课题组docker镜像,镜像文件已下载(/cluster/huanglab/metong/course/Lu_lab/docker)
 
   ​                        [王顺老师写的简书-docker部署Rstudio-1](https://www.jianshu.com/p/dae0eec93df1)  
 
