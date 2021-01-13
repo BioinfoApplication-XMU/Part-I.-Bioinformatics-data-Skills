@@ -8,7 +8,7 @@ Linux 文件系统包含排列在磁盘或其他区块存储设备的目录中�
 
 Microsoft® Windows®系统是在不同的驱动器盘符上（A:，C:等）使用不同的文件系统。 而 Linux 文件系统则截然不同，它是一个树形结构，以"/"目录作为根目录。
 
-![directory structure](https://github.com/BioinfoApplication-XMU/Part-I.-Bioinformatics-data-Skills/tree/main/img/directory.png "Logo Title Text 1")
+![directory structure](https://github.com/BioinfoApplication-XMU/Part-I.-Bioinformatics-data-Skills/blob/main/img/directory.png)
 
 
 ```
