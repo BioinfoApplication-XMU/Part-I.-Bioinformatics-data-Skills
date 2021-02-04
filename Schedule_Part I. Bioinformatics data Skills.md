@@ -103,6 +103,8 @@
 * 学习参考资料：[莫烦python基础教程](https://mofanpy.com/tutorials/python-basic/basic/) (雨娟)
 
   ​                         [莫烦numpy&pandas](https://mofanpy.com/tutorials/data-manipulation/np-pd/) (雨娟)
+  
+  ​                         [Biopython](https://biopython.org/) (雨娟)
 
   ​                       《利用python进行数据分析》(QQ群下载) (雅岚)
 
