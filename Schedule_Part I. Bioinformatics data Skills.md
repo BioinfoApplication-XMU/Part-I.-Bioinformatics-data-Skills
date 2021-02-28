@@ -160,7 +160,7 @@
 
 - 学习参考资料:  《The Biostar Handbook》(QQ群下载):掌握主要的数据资源[IV Data sources] （诺琪）
 
-  ​                       [解读GEO数据存放规律及下载，一文就够](https://mp.weixin.qq.com/s/4tKmmxXrGoTfH3-sYLnRcg) （GEO:育祥）
+​                              [解读GEO数据存放规律及下载，一文就够](https://mp.weixin.qq.com/s/4tKmmxXrGoTfH3-sYLnRcg) （GEO:育祥）
 
 ​                              [服务器下载GEOfastq文件](https://github.com/scRNA-XMU/download_fastq_files_methods) （GEO:育祥）
 
